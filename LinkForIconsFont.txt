@@ -1,3 +1,7 @@
 Google Fonts:- 
 
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap");
+
+
+RemixIcon:- 
+<link href="https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.css" rel="stylesheet">
