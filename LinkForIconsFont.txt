@@ -5,3 +5,6 @@ Google Fonts:-
 
 RemixIcon:- 
 <link href="https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.css" rel="stylesheet">
+
+Box icons code:
+1. Boxicons.com
